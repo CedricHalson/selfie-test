@@ -1,0 +1,1 @@
+.post-card{display:flex;flex-direction:column;height:100%}.post-card__body{flex-grow:1}.blog-posts{min-height:500px}.blog-pagination{align-items:center;display:flex;gap:16px;justify-content:flex-end}.blog-pagination .q-select{width:100px}
